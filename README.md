@@ -9,7 +9,7 @@ language](https://img.shields.io/badge/Julia-efefef.svg?logo=data:image/svg%2bxm
 
 >   Notes of [**Minicourse on Partial Differential Equations**](https://www.ictp-saifr.org/mpde2025/) helded at the [ICTP - SAIFR](https://www.ictp-saifr.org/) in 2025.
 
-The aim of the course is to introduce the participants to the wide field of Partial Differential Equations (PDEs) and explore analytical properties and numerical approximations. This would be, for me, an incredible sourvey through fundamental mathematical and computation tools that will allow me to thrive a deeper vision on optics (and in all PDEs, as well).
+The aim of the course is to introduce us to the wide field of Partial Differential Equations (PDEs) and explore analytical properties and numerical approximations. This would be, for me, an incredible sourvey through fundamental mathematical and computation tools that will allow me to thrive a deeper vision on optics (and in all PDEs, as well).
 
 ##  Minicourse topics
 
