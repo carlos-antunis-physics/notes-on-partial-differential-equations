@@ -11,12 +11,14 @@ language](https://img.shields.io/badge/Julia-efefef.svg?logo=data:image/svg%2bxm
 
 The aim of the course is to introduce the participants to the wide field of Partial Differential Equations (PDEs) and explore analytical properties and numerical approximations. This would be, for me, an incredible sourvey through fundamental mathematical and computation tools that will allow me to thrive a deeper vision on optics (and in all PDEs, as well).
 
-##  Topics
+##  Minicourse topics
 
->   ### [1.Topology and Linear Algebra](./notes/1.topology-and-linear-algebra/README.md)
+>   ### [Topology and Linear Algebra](./notes/README.md#topology-and-linear-algebra)
 >
 >   In this topic, we will discuss, firstly, tensorial algebra (vectors, covectors and tensors as well), and then dive onto symmetries, introducing inner products and finally linear maps (diving into eigendecompostions, exponentials, adjoints and unitary operators), and lastly we'll approach on topological spaces (discussing about continuity, compactness, convergence and stability of fixed points).
 
->   ### [2.Functional analysis and Fourier theory]()
+>   ### [Functional analysis and Fourier theory](./notes/README.md#functional-analysis-and-fourier-theory)
 >
 >   In this topic, we will discuss, firstly, the elements of functional analysis (approacing Hilbert spaces, Riesz representation theorem), Fourier analysis (Fourier series and its basic properties) and Sobolev spaces.
+
+![under construction](./under-construction.png)
