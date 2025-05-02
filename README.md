@@ -21,4 +21,8 @@ The aim of the course is to introduce the participants to the wide field of Part
 >
 >   In this topic, we will discuss, firstly, the elements of functional analysis (approacing Hilbert spaces, Riesz representation theorem), Fourier analysis (Fourier series and its basic properties) and Sobolev spaces.
 
+<div align="center">
+
 ![under construction](./under-construction.png)
+
+</div>

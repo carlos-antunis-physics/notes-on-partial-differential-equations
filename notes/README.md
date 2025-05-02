@@ -16,7 +16,11 @@
 ##  Non-linear theory
 ##  Weak-solutions and shocks
 
+<div align="center">
+
 ![under construction](../under-construction.png)
+
+</div>
 
 ---
 <div align="Right">
