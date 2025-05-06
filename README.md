@@ -13,13 +13,18 @@ This repository assembles my class notes during the [**Minicourse on Partial Dif
 
 ##  Minicourse topics
 
+>   ### [Fundamentals of linear algebra](./notes/1.fundamentals-of-linear-algebra.md)
+>
+>   In this topic we will, firstly, discuss linear algebra such as vector spaces and its dual (functionals, or covectors, space) and, lastly, approaching on tensors and multilinear algebras.
+
+<!--
 >   ### [Topology and Linear Algebra](./notes/README.md#topology-and-linear-algebra)
 >
 >   In this topic, we will discuss, firstly, tensorial algebra (vectors, covectors and tensors as well), and then dive onto symmetries, introducing inner products and finally linear maps (diving into eigendecompostions, exponentials, adjoints and unitary operators), and lastly we'll approach on topological spaces (discussing about continuity, compactness, convergence and stability of fixed points).
 
 >   ### [Functional analysis and Fourier theory](./notes/README.md#functional-analysis-and-fourier-theory)
 >
->   In this topic, we will discuss, firstly, the elements of functional analysis (approacing Hilbert spaces, Riesz representation theorem), Fourier analysis (Fourier series and its basic properties) and Sobolev spaces.
+>   In this topic, we will discuss, firstly, the elements of functional analysis (approacing Hilbert spaces, Riesz representation theorem), Fourier analysis (Fourier series and its basic properties) and Sobolev spaces. -->
 
 <div align="center">
 
